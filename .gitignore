@@ -1,0 +1,29 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs and reports
+logs/
+test-output/
+target/surefire-reports/
+
+# Screenshots and temporary artifacts
+screenshot/
+screenshots/
+
+# Driver binaries (if stored in repo during development)
+src/main/resources/drivers/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
